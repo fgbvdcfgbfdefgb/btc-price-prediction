@@ -1,0 +1,62 @@
+{
+  "results_by_horizon": {
+    "1m": {
+      "horizon_minutes": 1,
+      "directional_accuracy_pct": 51.27,
+      "win_rate_pct": 46.97,
+      "cumulative_return_pct": -17.76,
+      "annualized_sharpe": -3.81,
+      "max_drawdown_pct": -22.08
+    },
+    "5m": {
+      "horizon_minutes": 5,
+      "directional_accuracy_pct": 50.88,
+      "win_rate_pct": 50.52,
+      "cumulative_return_pct": 0.24,
+      "annualized_sharpe": 0.05,
+      "max_drawdown_pct": -14.22
+    },
+    "15m": {
+      "horizon_minutes": 15,
+      "directional_accuracy_pct": 51.29,
+      "win_rate_pct": 51.17,
+      "cumulative_return_pct": 5.44,
+      "annualized_sharpe": 1.05,
+      "max_drawdown_pct": -14.51
+    },
+    "30m": {
+      "horizon_minutes": 30,
+      "directional_accuracy_pct": 50.88,
+      "win_rate_pct": 50.83,
+      "cumulative_return_pct": -1.73,
+      "annualized_sharpe": -0.36,
+      "max_drawdown_pct": -16.08
+    },
+    "1h": {
+      "horizon_minutes": 60,
+      "directional_accuracy_pct": 50.88,
+      "win_rate_pct": 50.86,
+      "cumulative_return_pct": -7.0,
+      "annualized_sharpe": -1.46,
+      "max_drawdown_pct": -18.98
+    },
+    "4h": {
+      "horizon_minutes": 240,
+      "directional_accuracy_pct": 51.28,
+      "win_rate_pct": 51.27,
+      "cumulative_return_pct": -22.21,
+      "annualized_sharpe": -4.86,
+      "max_drawdown_pct": -25.64
+    },
+    "12h": {
+      "horizon_minutes": 720,
+      "directional_accuracy_pct": 49.73,
+      "win_rate_pct": 49.73,
+      "cumulative_return_pct": -0.09,
+      "annualized_sharpe": -0.02,
+      "max_drawdown_pct": -10.84
+    }
+  },
+  "benchmark_bnh_return_pct": 23.43,
+  "test_samples": 78624
+}
